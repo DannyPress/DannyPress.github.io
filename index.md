@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+My name is Daniel Pressler, I typically go by Danny. I am a current junior at Lehigh University double majoring in finance and business information systems, while also minoring in computer science. I am a very easy going guy who loves to snowboard and am a huge fan of the New York Giants.
 
 <!-- Upload your own photo and change the path -->
 
