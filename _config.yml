@@ -1,12 +1,4 @@
-<div id="typewriter"></div> # your name (or website title) here
-<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
-<script>
-  new Typewriter('#typewriter', {
-    strings: ['Here is your typewriter effect!'],
-    autoStart: true,
-  });
-</script>
-
+Danny Pressler # your name (or website title) here
 logo: "/images/head Shot.jpeg?raw=True" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Edit these links below   
