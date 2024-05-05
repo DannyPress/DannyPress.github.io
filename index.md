@@ -37,9 +37,10 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**A Finance Project I Worked on in a Systems Class(BIS 311)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#[![Alt text](images\_file.pdf)](https://docs.google.com/document/d/10cHpVjkIyesi2v7P9vyu_-CrYbkO752d7X_vC23LTxU/edit?usp=sharing)
+
 
 ---
 
