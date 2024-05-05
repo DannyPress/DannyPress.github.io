@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Daniel Pressler, I typically go by Danny. I am a current junior at Lehigh University double majoring in finance and business information systems, while also minoring in computer science. I am a very easy going guy who loves to snowboard and am a huge fan of the New York Giants. This upcoming summer I plan on interning at [FS Investments](https://fsinvestments.com/) on their portfolio operations team. If you have any questions feel free to reach out to me via email found on my [Resume](https://docs.google.com/document/d/1OZFo_MYryiSrIePP2O6gl_asl9wdEXH1Pt8VXrazSj0/edit?usp=sharing)
+My name is Daniel Pressler, I typically go by Danny. I am a current junior at Lehigh University double majoring in finance and business information systems, while also minoring in computer science. This upcoming summer I plan on interning at [FS Investments](https://fsinvestments.com/) on their portfolio operations team. If you have any questions feel free to reach out to me via email found on my [Resume](https://docs.google.com/document/d/1OZFo_MYryiSrIePP2O6gl_asl9wdEXH1Pt8VXrazSj0/edit?usp=sharing)
 .
 
 <!-- Upload your own photo and change the path -->
