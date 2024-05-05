@@ -30,7 +30,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Wealth Management Dashboard Project(FIN 377)](https://wealth-advisor-dashboard-zxeuck5wssugu23mf7cjon.streamlit.app/)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
