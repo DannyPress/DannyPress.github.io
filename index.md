@@ -4,10 +4,9 @@ My name is Daniel Pressler, I typically go by Danny. I am a current junior at Le
 .
 
 <!-- Upload your own photo and change the path -->
+<img src="images/BIB.jpeg?raw=true"/>
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/DannyPress/DannyPress.github.io/blob/master/images/head%20Shot.jpeg" width="50%">
-</p>
+
 
 ---
 
