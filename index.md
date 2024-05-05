@@ -56,5 +56,13 @@ Sell yourself!
 Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
 
 ---
+
+## Contact Information
+**Personal Email:** dpressler1@gmail.com
+**School Email:** dbp225@lehigh.edu
+**Phone Number:** 732-666-2331
+
+---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
