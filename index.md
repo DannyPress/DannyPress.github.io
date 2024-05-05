@@ -12,7 +12,7 @@ My name is Daniel Pressler, I typically go by Danny. I am a current junior at Le
 ---
 
 ## Portfolio
-#Hi Below are some of my projects that I have developed in my life inside and outside of academia enjoy :)
+### Hi Below are some of my projects that I have developed in my life inside and outside of academia enjoy :)
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
 _**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
