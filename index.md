@@ -53,7 +53,7 @@ Sell yourself!
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+- My hobbies include snowboarding, CrossFit, practicing Mandarin, playing the piano, participating in lacrosse, and cheering for the New York Giants.
 
 ---
 
