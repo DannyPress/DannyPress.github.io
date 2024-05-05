@@ -39,7 +39,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 _**A Finance Project I Worked on in a Systems Class(BIS 311)**_
 
-[![Alt text](images\Screenshot 2024-05-05 130445.png)](https://docs.google.com/document/d/10cHpVjkIyesi2v7P9vyu_-CrYbkO752d7X_vC23LTxU/edit?usp=sharing)
+[![Alt text](images/Screenshot 2024-05-05 130445.png)](https://docs.google.com/document/d/10cHpVjkIyesi2v7P9vyu_-CrYbkO752d7X_vC23LTxU/edit?usp=sharing)
 
 
 ---
