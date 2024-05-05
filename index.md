@@ -45,9 +45,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+For my longterm career path I plan on taking the CFA exams and to aquire the charter sometime in the future and work in portfolio management.
 
 ---
 
