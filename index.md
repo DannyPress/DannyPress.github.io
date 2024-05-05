@@ -58,9 +58,9 @@ Maybe include a little about these, especially if they are the kinds of things t
 ---
 
 ## Contact Information
-**Personal Email:** dpressler1@gmail.com
-**School Email:** dbp225@lehigh.edu
-**Phone Number:** 732-666-2331
+**Personal Email:** dpressler1@gmail.com <br>
+**School Email:** dbp225@lehigh.edu <br>
+**Phone Number:** 732-666-2331 <br>
 
 ---
 
