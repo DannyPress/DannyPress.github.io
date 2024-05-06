@@ -43,7 +43,9 @@ For my longterm career path I plan on taking the CFA exams and to aquire the cha
 **Personal Email:** dpressler1@gmail.com <br>
 **School Email:** dbp225@lehigh.edu <br>
 **Phone Number:** 732-666-2331 <br>
+
 ---
+
 [Don't worry click on this link to check my status](https://memes.com/m/LQW0kZNp4ej)
 
 
