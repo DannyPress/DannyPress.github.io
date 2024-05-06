@@ -45,7 +45,8 @@ For my longterm career path I plan on taking the CFA exams and to aquire the cha
 **Phone Number:** 732-666-2331 <br>
 
 ---
-[Don't worry click on this link to check my status]([https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczbzk0ZGRmZ3FuZTlvMTZwcnE3a3J3dDBvNGxuMHUwYndxZXVpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z0W8jiS0LvvWJto2s6/giphy.gif.gif](https://giphy.com/gifs/latenightseth-seth-meyers-lnsm-late-night-with-z0W8jiS0LvvWJto2s6))
+[Don't worry click on this link to check my status]([https://fsinvestments.com/](https://giphy.com/gifs/latenightseth-seth-meyers-lnsm-late-night-with-z0W8jiS0LvvWJto2s6))
+
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
