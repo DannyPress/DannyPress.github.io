@@ -12,23 +12,7 @@ My name is Daniel Pressler, I typically go by Danny. I am a current junior at Le
 
 ## Portfolio
 ### Hi Below are some of my projects that I have developed in my life inside and outside of academia enjoy :)
-<!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Regression Practice](Regression_practice)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 _**[Wealth Management Dashboard Project(FIN 377)](https://wealth-advisor-dashboard-zxeuck5wssugu23mf7cjon.streamlit.app/)**_
 
@@ -61,6 +45,7 @@ For my longterm career path I plan on taking the CFA exams and to aquire the cha
 **Phone Number:** 732-666-2331 <br>
 
 ---
+![Don't worry](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczbzk0ZGRmZ3FuZTlvMTZwcnE3a3J3dDBvNGxuMHUwYndxZXVpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z0W8jiS0LvvWJto2s6/giphy.gif.gif)
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
