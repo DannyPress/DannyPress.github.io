@@ -1,35 +1,5 @@
-## You can add additional MD and HTML files to your website
+## Welcome to my Midterm Project for Fin 377
 
-Below, I just write an MD file from scratch.
-
-Alternatively, you can "directly" add jupyter notebooks to the site. Look at the ["Regression Practice"](Regression_practice) page for details.
-
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### 1. Suggest hypotheses about the causes of observed phenomena
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+**Project description:** In this project I wanted to learn if companies in the SP500 would have high returns around when their 10ks were released. I also wanted to learn if companies that had higher sentiment analysis scores would have higher returns based of a measurement that I created. To give you a big summary of what happen, I learned alot about downloading and manipulating data in my build_sample note book with previous stock data over the year in 2022. In this note book I created a series of varaibles that are all data frames of companies cumulative stock returns that revolved around their 10k filing dates. After many loops and functions I created I was able to get all the data that I needed. I also had to do a sentiment analysis on all the companies 10ks that I downloaded and created a measurement strategy to score companies 10ks if they had a lot of positive words or negative words in their 10ks. To go more indepth I did a contextual sentiment analysis which to explain in baby terms I used a sepcific program to measure the sentiment of a sentence that was related to a topic of my choosing. The topics that I chose were ai, ESG, and DEI. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
