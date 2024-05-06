@@ -16,7 +16,7 @@ My name is Daniel Pressler, I typically go by Danny. I am a current junior at Le
 
 _**[Wealth Management Dashboard Project(FIN 377)](https://wealth-advisor-dashboard-zxeuck5wssugu23mf7cjon.streamlit.app/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/DALL·E 2024-05-06 00.55.39 - Logo design for a finance firm called 'The Don Bowen Advisors'. The logo should be sophisticated and modern, incorporating the color green prominently.webp?raw=true"/>
 
 ---
 
