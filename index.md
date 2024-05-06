@@ -43,9 +43,8 @@ For my longterm career path I plan on taking the CFA exams and to aquire the cha
 **Personal Email:** dpressler1@gmail.com <br>
 **School Email:** dbp225@lehigh.edu <br>
 **Phone Number:** 732-666-2331 <br>
-
 ---
-[Don't worry click on this link to check my status]([https://fsinvestments.com/](https://giphy.com/gifs/latenightseth-seth-meyers-lnsm-late-night-with-z0W8jiS0LvvWJto2s6))
+[Don't worry click on this link to check my status](https://memes.com/m/LQW0kZNp4ej)
 
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
