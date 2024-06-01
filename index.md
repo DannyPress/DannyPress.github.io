@@ -1,94 +1,52 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Daniel Pressler</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding-top: 60px; /* Height of the fixed header */
-        }
-        .header {
-            background-color: #333;
-            color: white;
-            position: fixed;
-            top: 0;
-            width: 100%;
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            height: 60px;
-            z-index: 1000;
-        }
-        .header a {
-            color: white;
-            text-decoration: none;
-            padding: 14px 20px;
-        }
-        .header a:hover {
-            background-color: #575757;
-        }
-        section {
-            padding: 20px;
-            margin: 10px 0;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
+## About Me
 
-<div class="header">
-    <a href="#about">About Me</a>
-    <a href="#portfolio">Portfolio</a>
-    <a href="#career">Career Objectives</a>
-    <a href="#hobbies">Hobbies</a>
-    <a href="#contact">Contact</a>
-</div>
+My name is Daniel Pressler, I typically go by Danny. I am a current junior at Lehigh University double majoring in finance and business information systems, while also minoring in computer science. This upcoming summer I plan on interning at [FS Investments](https://fsinvestments.com/) on their portfolio operations team. If you have any questions feel free to reach out to me via email or phone found on my [Resume](https://docs.google.com/document/d/1OZFo_MYryiSrIePP2O6gl_asl9wdEXH1Pt8VXrazSj0/edit?usp=sharing) or at the bottom of the page.
 
-<section id="about">
-    <h2>About Me</h2>
-    <p>My name is Daniel Pressler, typically go by Danny. I am a current junior at Lehigh University double majoring in finance and business information systems, while also minoring in computer science. This upcoming summer I plan on interning at <a href="https://fsinvestments.com/">FS Investments</a> on their portfolio operations team. If you have any questions, feel free to reach out to me via email or phone found on my <a href="https://docs.google.com/document/d/1OZFo_MYryiSrIePP2O6gl_asl9wdEXH1Pt8VXRazSj0/edit?usp=sharing">Resume</a> or at the bottom of the page.</p>
-    <img src="images/profile.jpg" alt="Profile Image">
-</section>
+<!-- Upload your own photo and change the path -->
+<img src="images/BIB.jpeg?raw=true"/>
 
-<section id="portfolio">
-    <h2>Portfolio</h2>
-    <h3>Projects</h3>
-    <p>Here are some of my projects that I have developed in my life inside and outside of academia:</p>
-    <h4><a href="https://wealth-advisor-dashboard-zxeuck5wssug23mf7cjon.streamlit.app/">Wealth Management Dashboard Project</a></h4>
-    <img src="images/wealth_dashboard.png" alt="Wealth Management Dashboard">
-    <h4><a href="https://docs.google.com/document/d/10cHpVjkIyesi2v7P9vyu_-CrYbkO752d7X_vC23LTtU/edit?usp=sharing">A Finance Project I Worked on in a Systems Class (BIS 311)</a></h4>
-    <img src="images/project_screenshot.png" alt="Project Screenshot">
-</section>
 
-<section id="career">
-    <h2>Career Objectives</h2>
-    <p>For my longer-term career path I plan on taking the CFA exams and to acquire the charter sometime in the future and work in portfolio management.</p>
-</section>
 
-<section id="hobbies">
-    <h2>Hobbies</h2>
-    <ul>
-        <li>Snowboarding</li>
-        <li>CrossFit</li>
-        <li>Practicing Mandarin</li>
-        <li>Playing the piano</li>
-        <li>Participating in lacrosse</li>
-        <li>Cheering for the New York Giants</li>
-    </ul>
-</section>
+---
 
-<section id="contact">
-    <h2>Contact Information</h2>
-    <p><strong>Personal Email:</strong> dpressler1@gmail.com</p>
-    <p><strong>School Email:</strong> dbp225@lehigh.edu</p>
-    <p><strong>Phone Number:</strong> 732-666-2331</p>
-</section>
+## Portfolio
+### Hi Below are some of my projects that I have developed in my life inside and outside of academia enjoy :)
 
-</body>
-</html>
+
+_**[Wealth Management Dashboard Project(FIN 377)](https://wealth-advisor-dashboard-zxeuck5wssugu23mf7cjon.streamlit.app/)**_
+
+<img src="images/DALL·E 2024-05-06 15.59.49 - A sleek and professional logo design for a company named 'The Don Bowen Advisors'. The logo features the company name in an elegant, modern font. The .webp?raw=true"/>
+
+---
+
+ 
+**[A Finance Project I Worked on in a Systems Class(BIS 311)](https://docs.google.com/document/d/10cHpVjkIyesi2v7P9vyu_-CrYbkO752d7X_vC23LTxU/edit?usp=sharing)** <br> 
+<img src="images/Screenshot 2024-05-05 130445.png?raw=true"/>
+
+
+---
+
+## Career Objectives
+
+For my longterm career path I plan on taking the CFA exams and to aquire the charter sometime in the future and work in portfolio management.
+
+---
+
+## Hobbies
+
+- My hobbies include snowboarding, CrossFit, practicing Mandarin, playing the piano, participating in lacrosse, and cheering for the New York Giants.
+
+---
+
+## Contact Information
+**Personal Email:** dpressler1@gmail.com <br>
+**School Email:** dbp225@lehigh.edu <br>
+**Phone Number:** 732-666-2331 <br>
+
+---
+
+[Don't worry click on this link to check my status](https://memes.com/m/LQW0kZNp4ej)
+
+
+<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- Remove above link if you don't want to attibute -->
